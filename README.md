@@ -27,4 +27,5 @@ We aim to reconstruct the original image:
 Citations:
 
 J. R. Fienup, "Phase retrieval algorithms: a comparison," Appl. Opt. 21, 2758-2769 (1982)
+
 Cagatay Isil, "Deep iterative reconstruction for phase retrieval," Vol. 58, No. 20 (2019)
