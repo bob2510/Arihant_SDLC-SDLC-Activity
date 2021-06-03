@@ -12,17 +12,17 @@ The Fourier constraint is that the intensity of the transformed image must be th
 
 # U-net Architecture
 
-![Diffract](https://github.com/bob2510/Arihant_SDLC-implementation/blob/96c7ac296ee217002af68dcc8c61831f7a05cca5/5.%20Images/unet.PNG)
+![Diffract](https://github.com/bob2510/Arihant_SDLC-implementation/blob/e4b76d54417a3b15500a018e9639a16bb6ccf634/5.%20Images/unet.PNG)
 
 # Objective
 
 For example, given a diffraction pattern: 
 
-![Diffract](https://github.com/bob2510/Arihant_SDLC-implementation/blob/96c7ac296ee217002af68dcc8c61831f7a05cca5/5.%20Images/transform.png)
+![Diffract](https://github.com/bob2510/Arihant_SDLC-implementation/blob/e4b76d54417a3b15500a018e9639a16bb6ccf634/5.%20Images/transform.png)
 
 We aim to reconstruct the original image:
 
-![Progress](https://github.com/bob2510/Arihant_SDLC-implementation/blob/96c7ac296ee217002af68dcc8c61831f7a05cca5/5.%20Images/progress.gif)
+![Progress](https://github.com/bob2510/Arihant_SDLC-implementation/blob/e4b76d54417a3b15500a018e9639a16bb6ccf634/5.%20Images/progress.gif)
 
 Citations:
 
