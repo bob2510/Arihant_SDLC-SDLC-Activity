@@ -7,3 +7,10 @@ These images were tested and the results were compared to the original dataset a
 
 Output of all the inputs were tested against the Mean Square error loss function with the ground truth image for the comparison. And as mentioned above, we received more than ninety
 percent accuracy which can be seen as an accomplishment given how difficult phase retrieval is.
+
+References:
+
+[1] K. Ma, Z. Duanmu, Q. Wu, Z. Wang, H. Yong, H. Li, and L. Zhang,
+“Waterloo Exploration Database: New challenges for image quality
+assessment models,” IEEE Trans. Image Process. 26, 1004–1016
+(2017).
